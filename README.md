@@ -43,6 +43,16 @@ pip install auto-gptq optimum -i https://pypi.tuna.tsinghua.edu.cn/simple
 conda install mpi4py
 ```
 
+## 执行微调
+
+因为执行实践比较长，建议后台启动
+```commandline
+
+nohup sh ft.sh &
+
+```
+
+
 其他的参考jupter脚本
 
 感谢B站大佬
