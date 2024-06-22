@@ -45,7 +45,7 @@ conda install mpi4py
 
 ## 执行微调
 
-因为执行实践比较长，建议后台启动
+因为执行时间比较长，建议后台启动
 ```commandline
 
 nohup sh ft.sh &
